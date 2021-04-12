@@ -1,0 +1,3 @@
+# carrierland
+
+This repository is intended for the development of contributions on Global Navigation Satellite Systems (GNSS) carrier phase-based navigation solutions...
